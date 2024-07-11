@@ -1,4 +1,3 @@
-git branch -M main
 import { ArcRotateCamera, Scene, Vector3 } from 'babylonjs';
 
 export class CameraController {
