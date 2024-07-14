@@ -22,6 +22,7 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.14.1",
     "babylonjs": "^6.33.2"
   }
 }
